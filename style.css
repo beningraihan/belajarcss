@@ -1,0 +1,74 @@
+/* h1{ //font styling 4
+    font-family: arial, verdana, sans-serif;
+    font-size: 100px;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+} */
+
+
+/* h1{ //text styling 5
+    font-size: 50px;
+    color: rgba(22, 29, 237, 0.4);
+    text-decoration: overline;
+}
+
+p{
+    text-align: justify;
+    text-indent: 10px;
+    word-spacing: 5px;
+} */
+
+/* body{ //background
+    background-color: skyblue;
+} */
+
+
+/* // selector css
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2{
+    color: blue;
+}
+
+ul li a {
+    color: orange;
+}
+
+ol li a{
+    color: red;
+}
+#p1{
+    color: orange;
+}
+
+.p2{
+    color: red;
+} */
+
+.hello:link{ 
+    color: yellow;
+}
+
+.hello:hover{
+    color: green;
+    font-family: arial;
+    font-size: 30px;
+}
+
+.hello:active{
+    color: blue;
+}
+
+li:last-child{
+    color: green;
+}
+.p2{
+    color: red;
+}
